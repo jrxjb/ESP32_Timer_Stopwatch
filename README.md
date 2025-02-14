@@ -75,7 +75,6 @@ remainingTime = 99 * 60;
 ![Image](images/image.png)
 
 
-Feel free to contribute and improve this project!
 
 ## Author
 
